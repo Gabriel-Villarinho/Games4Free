@@ -1,2 +1,3 @@
 # Games4Free
-Esse repositório é destinado a uma aplicação feita para utilizar APIs e mostrar suas informações
+## Integrantes: Gabriel Lima Villarinho e João Paulo Barbosa P. C. Filho
+<p>Essa aplicação será utilizada</p>
