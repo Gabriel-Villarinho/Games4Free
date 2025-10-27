@@ -7,4 +7,4 @@
 
 ## Sumário
 - [API utilizada](https://github.com/Gabriel-Villarinho/Games4Free/wiki/API-utilizada)
-- [API utilizada](https://github.com/giovannasantt/4GInnovation/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)
+- [Endpoints e Parâmetros](https://github.com/Gabriel-Villarinho/Games4Free/wiki/Endpoints-e-Par%C3%A2metros)
