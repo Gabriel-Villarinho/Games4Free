@@ -8,3 +8,4 @@ https://drive.google.com/drive/folders/1zWkKhlmcLQbWDVcVKMp0NMI4__MK4YtL?usp=dri
 - [API utilizada](https://github.com/Gabriel-Villarinho/Games4Free/wiki/API-utilizada)
 - [Endpoints e Parâmetros](https://github.com/Gabriel-Villarinho/Games4Free/wiki/Endpoints-e-Par%C3%A2metros)
 - [Protótipo](https://github.com/Gabriel-Villarinho/Games4Free/wiki/Prot%C3%B3tipo)
+- [Códigos App](https://github.com/Gabriel-Villarinho/Games4Free/wiki/Codigos-App)
